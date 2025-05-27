@@ -48,14 +48,14 @@ accurate reporting.
 within the production allocation system (Energy Component).
 
 ## 🎓 Education & Affiliation
-**Master of Data Science (With Distinction)** | University of Malaya, MALAYSIA (2020)
+**Master of Data Science (With Distinction)** | Universiti Malaya, MALAYSIA (2020)
 **B. Eng. (Hons) Electrical and Electronics**, Universiti Teknologi PETRONAS, MALAYSIA (2009)
 
 **Member**, Institute of Measurement and Control (24200)  
 **Member**, Institute of Engineering and Technology (1101228152)  
 **Graduate Engineer**, Board of Engineers Malaysia (G1145934A)  
 **Graduate Technologist**, Malaysia Board of Technologists (GT21050210)  
-**Technical Committee** on Petroleum and Gas Measurement (NSC 08/TC 1), Department of Standards Malaysia (2018-2022)
+**National Standards Committee** on Petroleum and Gas Measurement (NSC 08/TC 1), Department of Standards Malaysia (2018-2022)
 
 ## 📜 Papers & Presentations
 1. Upstream Measurement System – Rediscover Experience, Revolutionize Approaches. PETRONAS 
