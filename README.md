@@ -12,7 +12,7 @@ This is my **digital workspace** — part knowledge vault, part curiosity playgr
 
 #### 🗓️ Dusting Off the Cobwebs
 This GitHub has been around since 2013 — mostly chilling in the background.  
-But 2025 is my reboot year. I'm aiming to post at least once a month, turning this space into an evolving notebook of things I’m learning, building, or just nerding out about.
+But 2025 is my reboot year. I'm aiming to post regularly, turning this space into an evolving notebook of things I’m learning, building, or just nerding out about.
 
 So if you stumble across an unfinished note or a half-baked idea — that’s just part of the process. 🙂
 
