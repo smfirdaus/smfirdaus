@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Welcome"
+---
+
 # 👋 Hello, I'm Firdaus
 Measurement engineer, tech enthusiast, data explorer.  
 
