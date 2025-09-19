@@ -7,7 +7,7 @@ layout: single
 
 <div class="cv">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">NAME</span>
 
 <span class="info">Dedicated and detail-oriented Ph.D. student at UC Berkeley interested in the intersection of chemical engineering, bionanotechnology, and data science.</span>
 
