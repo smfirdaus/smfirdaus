@@ -1,0 +1,16 @@
+title: smfirdaus.github.io
+description: Personal knowledge base & writings
+baseurl: "" 
+url: "https://github.com/smfirdaus"
+
+# theme: minima
+remote_theme: "matthewkirby/academictemplate"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+header_pages:
+  - resume.md
+  - writings/index.md
+  - notes/index.md
