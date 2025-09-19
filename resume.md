@@ -10,6 +10,7 @@ permalink: /resume/
 
 ### Measurement Engineer based in Qatar 🇶🇦
 [Email](mailto:smfirdaus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/smfirdaus/) / [GitHub](https://github.com/smfirdaus/)  
+Firdaus has extensive experience as a metering engineer, leading strategy and execution of metering systems for custody transfer and fiscal allocation. He has expertise in measurement verification, calibration, and uncertainty evaluation, and has contributed to the development of industry standards. Additionally, he has experience in project management, application development, and auditing for metering systems.
 
 ## 💼 Career
 **QatarEnergyLNG** _(Mar 2024 – Present)_  
@@ -54,7 +55,7 @@ accurate reporting.
 within the production allocation system (Energy Component).
 
 ## 🎓 Education & Affiliation
-**Master of Data Science (With Distinction)** | Universiti Malaya, MALAYSIA (2020)
+**Master of Data Science (With Distinction)** | Universiti Malaya, MALAYSIA (2020)  
 **B. Eng. (Hons) Electrical and Electronics**, Universiti Teknologi PETRONAS, MALAYSIA (2009)
 
 **Member**, Institute of Measurement and Control (24200)  
